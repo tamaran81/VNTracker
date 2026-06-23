@@ -24,7 +24,8 @@
 - .NETランタイム不要（同梱済み）
 
 ## 使い方
-準備中
+下記参照
+https://note.com/happy_hawk753/n/n02a1c5491179
 
 ## 連絡先
 - X (Twitter): [@trini_ryu81](https://x.com/trini_ryu81)
